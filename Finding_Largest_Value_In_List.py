@@ -1,5 +1,4 @@
 # Python Finding largest number in a list with user input
-# James Mitra - Project 1 - 05/26/2022
 
 ### Option 1 - Using sort function to find largest number
 numbers = input("Enter numbers: ").split()
